@@ -9,6 +9,7 @@ Setup
 
     git clone https://github.com/juliemr/protractor-demo.git
     cd protractor-demo
+    npm build
     npm install
 
 To run
